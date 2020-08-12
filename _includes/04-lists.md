@@ -1,3 +1,3 @@
--  coffee
--  tea
--  juice
+- coffee
+- tea
+- juice
